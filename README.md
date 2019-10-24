@@ -1,6 +1,6 @@
 # Sentiment Analysis of twitter data
 This project constitutes analyzing tweets using the "Sentiment140" dataset by Stanford. 
-The model characterizes a tweet as either positive or negative.
+The model uses machine learning algorithms and feature extraction techniques to characterize a tweet as either positive or negative.
 
 The linked jupyter notebooks are as follows:
 
